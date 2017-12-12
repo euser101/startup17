@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/de/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/de/blog/feed.xml</link>
+    <description></description>
+    <language>de</language>
+     <atom:link href="https://www.prestashop.com/de/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Tipps für erfolgreiches Facebook Remarketing</title>
+    <link>https://www.prestashop.com/de/blog/remarketing</link>
+    <description>Wer im eCommerce tätig ist, kennt das: Ein Großteil der Besucher verlässt die Seite, ohne eine Handlung vorzunehmen.</description>
+     <pubDate>Mon, 04 Dec 2017 15:59:30 +0100</pubDate>
+ <dc:creator>SandraEichhorn</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/remarketing</guid>
+  </item>
+  <item>
+    <title>Neue Datenschutz-Grundverordnung - Was ändert sich? </title>
+    <link>https://www.prestashop.com/de/blog/neue-datenschutz-grundverordnung-was-andert-sich</link>
+    <description>Am 25.Mai 2018, also in etwas mehr als in einem halben Jahr, tritt die neue Datenschutzgrundverordnung (DS-GVO) in Kraft.</description>
+     <pubDate>Thu, 23 Nov 2017 14:31:28 +0100</pubDate>
+ <dc:creator>Hagen Meischner</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/neue-datenschutz-grundverordnung-was-andert-sich</guid>
+  </item>
+  <item>
+    <title>39 E-Commerce Statistiken, die Sie vor den Feiertagen kennen sollten</title>
+    <link>https://www.prestashop.com/de/blog/39-e-commerce-statistiken-die-sie-vor-den-feiertagen-kennen-sollten</link>
+    <description>Mit der Etablierung von Black Friday, Small Business Saturday, Cyber Monday, Green Monday, Super Saturday und Boxing Day hat das Wort &quot;Feiertage&quot; eine neue Bedeutung bekommen.</description>
+     <pubDate>Thu, 23 Nov 2017 10:11:44 +0100</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/39-e-commerce-statistiken-die-sie-vor-den-feiertagen-kennen-sollten</guid>
+  </item>
+  <item>
+    <title>PrestaShop und Billbee - die Komplettlösung für den Multichannel</title>
+    <link>https://www.prestashop.com/de/blog/prestashop-und-billbee-die-komplettlosung-fur-den-multichannel</link>
+    <description>Multichannel ist Pflicht. Wer erfolgreich verkaufen will, muss dort präsent sein, wo der Kunde ist - stationär, online und auf immer mehr Marktplätzen.</description>
+     <pubDate>Mon, 06 Nov 2017 18:03:12 +0100</pubDate>
+ <dc:creator>Hagen Meischner</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/prestashop-und-billbee-die-komplettlosung-fur-den-multichannel</guid>
+  </item>
+  <item>
+    <title>Mit Whatsapp die Kundenbindung steigern</title>
+    <link>https://www.prestashop.com/de/blog/mit-whatsapp-die-kundenbindung-steigern</link>
+    <description>Das Modul „WhatsApp Sticky Link“ ermöglicht es als erstes PrestaShop-Modul einen Link</description>
+     <pubDate>Tue, 31 Oct 2017 10:06:50 +0100</pubDate>
+ <dc:creator>Hagen Meischner</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/mit-whatsapp-die-kundenbindung-steigern</guid>
+  </item>
+  <item>
+    <title>Finanziell fit in bequemen Raten</title>
+    <link>https://www.prestashop.com/de/blog/ecommerce-tips-and-advice/finanziell-fit-in-bequemen-raten</link>
+    <description>Fitnessgerätehersteller TOLYMP setzt in seinem Online-Shop von Prestashop auf ratenkauf by easyCredit. </description>
+     <pubDate>Fri, 27 Oct 2017 16:26:31 +0200</pubDate>
+ <dc:creator>easycredit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/ecommerce-tips-and-advice/finanziell-fit-in-bequemen-raten</guid>
+  </item>
+  <item>
+    <title>Abmahnsicher durch´s Weihnachtsgeschäft: Rechtliche Tipps für Onlinehändler</title>
+    <link>https://www.prestashop.com/de/blog/rechtliche-tipps-fur-onlinehandler</link>
+    <description>Das Ende des Jahres rückt in riesigen Schritten näher und damit steht auch das Weihnachtsgeschäft 2017 vor der Tür.</description>
+     <pubDate>Tue, 17 Oct 2017 14:08:47 +0200</pubDate>
+ <dc:creator>Hagen Meischner</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/rechtliche-tipps-fur-onlinehandler</guid>
+  </item>
+  <item>
+    <title>Integrationsfonds: bereits 1.000 Bewerbungen!</title>
+    <link>https://www.prestashop.com/de/blog/prestashop-neuigkeiten/integrationsfonds-bereits-1-000-bewerbungen</link>
+    <description>Integrationsfond: Was bisher erreicht wurde
+ </description>
+     <pubDate>Mon, 16 Oct 2017 16:25:22 +0200</pubDate>
+ <dc:creator>margauxchoplin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/prestashop-neuigkeiten/integrationsfonds-bereits-1-000-bewerbungen</guid>
+  </item>
+  <item>
+    <title>Mehr Sichtbarkeit mit dynamischen Anzeigen</title>
+    <link>https://www.prestashop.com/de/blog/mehr-sichtbarkeit-mit-dynamischen-anzeigen</link>
+    <description>Dynamische Anzeigen sind das personalisierte Geschenk der Werbebranche.</description>
+     <pubDate>Thu, 12 Oct 2017 15:15:38 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/mehr-sichtbarkeit-mit-dynamischen-anzeigen</guid>
+  </item>
+  <item>
+    <title>Die umfassendste Anleitung zur Feiertagsplanung für Einzelhändler</title>
+    <link>https://www.prestashop.com/de/blog/anleitung-feiertagsplanung-einzelhandler</link>
+    <description>Mit der Etablierung von Black Friday, Small Business Saturday, Cyber Monday, Green Monday, Super Saturday und Boxing Day ist die Definition von “der Feiertags-Werbepush” deutlich breiter geworden.</description>
+     <pubDate>Wed, 11 Oct 2017 11:16:24 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/anleitung-feiertagsplanung-einzelhandler</guid>
+  </item>
+  </channel>
+</rss>
