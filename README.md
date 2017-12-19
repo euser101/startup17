@@ -1,9 +1,7 @@
-# myfoto
+# myFoto
 
-Webshop:
-user: admin@myfoto.ch 
-pass: Bfo12345 
+Webshop: <br><br>
+<b>user:</b> admin@myfoto.ch <br>
+<b>pass:</b> Bfo12345 
 
-
-Bplaced:
-user: bfo
+WIP running under localhost
