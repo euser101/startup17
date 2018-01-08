@@ -5,3 +5,7 @@ Webshop: <br><br>
 <b>pass:</b> Bfo12345 
 
 WIP running under localhost
+
+
+myfoto
+Bfo12345
